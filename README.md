@@ -22,4 +22,5 @@
 ###### Controle dos cadastros de clientes
 ###### Controle dos pedidos e seus respectivos status
 ###### Controle dos vendedores cadastrados, incluindo liberação de acesso administrativo ou limitado aos clientes do respectivo vendedor
-###### Controle dos itens excluido do sistema 
+###### Controle dos itens excluido do sistema
+###### Dashboard com total de acessos ao aplicativo (Total de acessos para o administrador, total de acessos dos seus clientes para vendedores)
