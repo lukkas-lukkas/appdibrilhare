@@ -2,9 +2,9 @@
 
 > Sistema de pedidos por encomenda para distribuidora de cosméticos. Em uso.
 
-##Funcionalidades
+## Funcionalidades
 
-###Possibilidade para o cliente
+### Possibilidade para o cliente
   
 Efetuar o próprio cadastro
 Alterar os próprios dados
@@ -14,7 +14,7 @@ Fechar pedido e enviar para o vendedor escolhido
 Acompanhar status dos pedidos na área do cliente
 Efetuar login salvando a sessão
   
-###Ferramentas da administração
+### Ferramentas da administração
 
 Controle de produtos disponiveis no catálogo, incluindo administração das categorias
 Controle dos cadastros de clientes
