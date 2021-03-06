@@ -1,6 +1,6 @@
 # appdibrilhare.com
 
-> Sistema de pedidos por encomenda para distribuidora de cosméticos. Em uso.
+> Sistema responsivo de pedidos com administração de pedidos por vendedor. Em uso.
 
 ## Funcionalidades
 
