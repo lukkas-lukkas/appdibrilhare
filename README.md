@@ -13,6 +13,7 @@
 ###### Fechar pedido e enviar para o vendedor escolhido
 ###### Acompanhar status dos pedidos na área do cliente
 ###### Efetuar login salvando a sessão
+
   
 ### Ferramentas da administração
 
