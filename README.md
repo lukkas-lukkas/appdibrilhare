@@ -1,6 +1,6 @@
 # appdibrilhare.com
 
-> Sistema web responsivo de pedidos com administração de pedidos por vendedor. Em uso.
+> Sistema web responsivo de pedidos com administração de pedidos por vendedor. Em produção.
 > Conheça em www.appdibrilhare.com
 
 ## Funcionalidades
