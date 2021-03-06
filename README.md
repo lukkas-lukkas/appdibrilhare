@@ -5,7 +5,7 @@
 
 ## Funcionalidades
 
-### Possibilidade para o cliente
+### Possibilidades para o cliente
   
 ###### Efetuar o próprio cadastro
 ###### Alterar os próprios dados
