@@ -1,6 +1,6 @@
 # appdibrilhare.com
 
-> Sistema web responsivo e instalável (utilizando PWA) para recebimento e administração de pedidos por vendedor. Em produção.
+> Sistema web responsivo e instalável (PWA) para recebimento e administração de pedidos por vendedor. Em produção.
 > Conheça em www.appdibrilhare.com
 
 ## Funcionalidades
